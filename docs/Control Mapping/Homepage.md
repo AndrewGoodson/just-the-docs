@@ -15,7 +15,7 @@ has_children: true
 
 [Azure FedRAMP (High)](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Azure Azure FedRAMP Moderate](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Azure FedRAMP Moderate](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 # Control Responses
 
