@@ -14,6 +14,8 @@ Welcome to AIS IA Risk Management Controls and ATO Process
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/andrewgoodson/rmfcontrols){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+[Control Mapping](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ---
 
 ## Getting started
